@@ -1,0 +1,38 @@
+1 graduation
+career 
+family
+hobbies
+places
+
+Low lable desing
+
+output based qa
+
+dsa
+regex
+unit testing
+reverse engineering
+js bundler
+polyfills
+
+css 
+
+vulnerabilty and security
+
+wacg standard
+seo
+debugging tools and tips
+IEEE
+
+
+System label desing
+
+Project Architecture Setup
+
+Devops
+
+Linux
+
+DB
+
+Optimization
